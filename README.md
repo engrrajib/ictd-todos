@@ -1,11 +1,5 @@
-# Planka
-#### Elegant open source project tracking
-
-![David (path)](https://img.shields.io/github/package-json/v/plankanban/planka) ![Docker Pulls](https://img.shields.io/docker/pulls/meltyshev/planka) ![GitHub](https://img.shields.io/github/license/plankanban/planka)
-
-![](https://raw.githubusercontent.com/plankanban/planka/master/demo.gif)
-
-[**Client demo**](https://plankanban.github.io/planka) (without server features).
+# ICTD ToDos
+#### Elegant Basic Project & Tasks Management
 
 ## Features
 
@@ -28,14 +22,9 @@ For configuration, please see the [configuration section](https://docs.planka.cl
 
 ## Contact
 
-- If you want to get a hosted version of Planka, you can contact us via email contact@planka.cloud
-- For any security issues, please do not create a public issue on GitHub, instead please write to security@planka.cloud
+- If you want to get a hosted version, you can contact us via email razib@me.com
 
 We do NOT offer any public support via email, please use GitHub.
-
-## Development
-
-See the [development section](https://docs.planka.cloud/docs/Development).
 
 ## Tech stack
 
@@ -45,4 +34,4 @@ See the [development section](https://docs.planka.cloud/docs/Development).
 
 ## License
 
-Planka is [AGPL-3.0 licensed](https://github.com/plankanban/planka/blob/master/LICENSE).
+ [AGPL-3.0 licensed](https://github.com/plankanban/planka/blob/master/LICENSE).
