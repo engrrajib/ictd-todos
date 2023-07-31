@@ -1,4 +1,4 @@
-# Planka
+# ICTD ToDos
 #### Elegant open source project tracking
 ## Features
 
